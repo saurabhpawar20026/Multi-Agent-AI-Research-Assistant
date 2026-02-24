@@ -1,15 +1,15 @@
-Yeh ek advanced AI-powered tool hai jo autonomous agents ka use karke kisi bhi topic par real-time research aur content generation karta hai. Traditional chatbots ke muqable, isme do alag-alag AI agents ek team ki tarah kaam karte hain.
+This is an advanced AI-powered tool that uses autonomous agents to conduct real-time research and content generation on any topic. Unlike traditional chatbots, it employs two separate AI agents working as a team.
 
-🌟 Key Features
-Autonomous Research: Senior Research Analyst agent internet (DuckDuckGo) ka use karke latest trends aur data nikalta hai.
+ Key Features
+Autonomous Research: The Senior Research Analyst agent uses the internet (DuckDuckGo) to gather the latest trends and data.
 
-Smart Content Writing: Tech Content Strategist agent research data ko ek structured, engaging aur professional blog post ya report mein convert karta hai.
+Smart Content Writing: The Tech Content Strategist agent converts research data into a structured, engaging, and professional blog post or report.
 
-Sequential Workflow: Ek agent ka output dusre agent ke liye input banta hai, jo ek real-world office workflow ko simulate karta hai.
+Sequential Workflow: The output of one agent becomes the input for another agent, simulating a real-world office workflow.
 
-Powered by CrewAI: Complex task management ke liye industry-standard multi-agent framework ka use kiya gaya hai.
+Powered by CrewAI: An industry-standard multi-agent framework is used for complex task management.
 
-🛠️ Tech Stack
+ Tech Stack
 Language: Python
 
 Framework: CrewAI
@@ -20,11 +20,11 @@ LLM: OpenAI GPT-4 / Gemini (via LangChain)
 
 Tools: DuckDuckGo Search API
 
-🚀 How It Works
-Input: User ek topic provide karta hai (e.g., "AI in Healthcare 2026").
+How It Works
+Input: User provides a topic (e.g., "AI in Healthcare 2026").
 
-Research Phase: Agent 1 internet browse karta hai aur key points collect karta hai.
+Research Phase: Agent 1 browses the internet and collects key points.
 
-Drafting Phase: Agent 2 un points ko summarize karke ek professional markdown report likhta hai.
+Drafting Phase: Agent 2 summarizes those points and writes a professionally marked-down report.
 
-Output: Aapko ek final, ready-to-publish research article milta hai.
+Output: You get a final, ready-to-publish research article.
