@@ -1,7 +1,5 @@
 Title: Multi-Agent AI Research Assistant
 
-Description: Ye project CrewAI ka use karke internet se research karta hai aur blog posts likhta hai.
-
 Installation: pip install -r requirements.txt
 
 Usage: python main.py# Multi-Agent-AI-Research-Assistant
